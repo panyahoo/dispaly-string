@@ -1,3 +1,4 @@
 basic.forever(function () {
-    basic.showString("Hello!")
+    // Name Changed
+    basic.showString("ROBOT TECH")
 })
